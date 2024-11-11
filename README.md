@@ -214,7 +214,7 @@ Implementasi konversi otomatis saat nilai input berubah, mempermudah pengguna me
 ```
 ## 6. Tampilan Aplikasi Saat di Run
 
-
+![image](https://github.com/user-attachments/assets/5b77f5ee-6663-4a80-a2ac-9de4231025d5)
 
 ## 7. Indikator Penilaian
 
